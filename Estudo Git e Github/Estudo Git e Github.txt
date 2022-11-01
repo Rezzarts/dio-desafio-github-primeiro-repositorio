@@ -1,3 +1,11 @@
+Branches:
+
+Branches são ramificações da pasta principal, que funcionam basicamente como um teste de versão, assim se houver algum bug ou erro de codigo, ele pode ser verificado e corrigido sem afetar o conteudo principal, permitindo tambem um avanço colaborativo do projeto. Após a correção das branches, elas podem ser adicionadas ao conteudo principal a partir de um "merge" (commit -m merge), e assim avançar com o projeto integrando as novas soluções.
+
+
+
+
+
 Links úteis:
 
 Sintaxe basica markdown: [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/)
