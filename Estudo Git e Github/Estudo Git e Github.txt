@@ -1,0 +1,4 @@
+Links úteis:
+
+Sintaxe basica markdown: [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/)
+
